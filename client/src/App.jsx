@@ -7,8 +7,8 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import UserDashboard from './pages/UserDashboard';
 import AdminDashboard from './pages/AdminDashboard';
-import PaymentSuccess from './pages/PaymentSuccess';
-import PaymentFailed from './pages/PaymentFailed';
+import PaymentSuccess from './pages/paymentSuccess';
+import PaymentFailed from './pages/paymentFailed';
 
 function App() {
     return (
