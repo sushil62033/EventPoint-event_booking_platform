@@ -58,8 +58,8 @@ const Navbar = () => {
                                     to="/register"
                                     className={({ isActive }) =>
                                         isActive
-                                            ? "bg-gray-200 text-black px-4 py-2 rounded-md font-semibold"
-                                            : "bg-white text-gray-900 hover:bg-gray-100 px-4 py-2 rounded-md font-semibold transition"
+                                            ? "text-white font-semibold border-b-2 border-white pb-1"
+                                            : "text-gray-200 hover:text-white transition"
                                     }
                                 >
                                     Sign Up
